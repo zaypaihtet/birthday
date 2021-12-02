@@ -4,7 +4,7 @@ import colorama
 from colorama import Fore, Style 
 import os
 x="Sayar Thurain "
-
+os.system("echo'Happy Birthday '|lolcat  -a -d 50 ")
 
 b=len(x)
 def cake(): 
